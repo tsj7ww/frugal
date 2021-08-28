@@ -1,0 +1,2 @@
+# frugal
+Craigslist web scraper.
