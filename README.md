@@ -1,11 +1,6 @@
 # Frugal
 Craigslist web scraper.
 
-### Code
-.
-
-### Platform
-.
-
-### Scheduling
-.
+### Tech
+- Python: Requests, BS4, Boto3
+- AWS: Lambda, SNS
